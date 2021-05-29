@@ -1,0 +1,16 @@
+{
+    "name": "nyon_d0_na_denggan/project_uts",
+    "description": "project",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "hartanto",
+            "email": "hartanto.s20ti@mahasiswa.pcr.ac.id"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.47",
+        "google/apiclient": "^2.9"
+    }
+}
